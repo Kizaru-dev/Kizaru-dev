@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Tailwind , BootStrap and Back-end Services**
 
-- 📫 How to reach me **priyanshusingh20041012@gmail.com**
+- 📫 How to reach me **priyanshusinghppii@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
