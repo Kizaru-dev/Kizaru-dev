@@ -15,7 +15,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Singh</h1>
 <h3 align="center">I’m passionate about building end-to-end web applications that are scalable, user-friendly, and impactful.</h3>
 
-- 🔭 I’m currently working on **Resume Builder**
+- 🔭 I’m currently working on **AI Resume Builder**
 
 - 🌱 I’m currently learning **Spring Boots and React**
 
